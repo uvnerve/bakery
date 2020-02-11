@@ -1,4 +1,4 @@
 # bakery
 A sample bakery site to work on
 
-# Please naviaget to [baking.html]
+# Please navigate to [/https://github.com/uvnerve/bakery/blob/master/baking.html]
